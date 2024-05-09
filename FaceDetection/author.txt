@@ -1,0 +1,9 @@
+GITHUB: https://github.com/ZhaoJ9014/face.evoLVe
+
+CITATION: 
+@article{wang2021face,
+    title={Face.evoLVe: A High-Performance Face Recognition Library},
+    author={Wang, Qingzhong and Zhang, Pengfei and Xiong, Haoyi and Zhao, Jian},
+    journal={arXiv preprint arXiv:2107.08621},
+    year={2021}
+}
